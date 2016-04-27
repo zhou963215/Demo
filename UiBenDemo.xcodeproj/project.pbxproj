@@ -15,6 +15,12 @@
 		FA4718211CD051CA0036DCB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA47181F1CD051CA0036DCB3 /* LaunchScreen.storyboard */; };
 		FA47182C1CD051CA0036DCB3 /* UiBenDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA47182B1CD051CA0036DCB3 /* UiBenDemoTests.m */; };
 		FA4718371CD051CA0036DCB3 /* UiBenDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4718361CD051CA0036DCB3 /* UiBenDemoUITests.m */; };
+		FA4718501CD052CE0036DCB3 /* ExampleViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4718451CD052CE0036DCB3 /* ExampleViewController1.m */; };
+		FA4718511CD052CE0036DCB3 /* ExampleViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4718471CD052CE0036DCB3 /* ExampleViewController2.m */; };
+		FA4718521CD052CE0036DCB3 /* ExampleViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4718491CD052CE0036DCB3 /* ExampleViewController3.m */; };
+		FA4718531CD052CE0036DCB3 /* ExampleViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = FA47184B1CD052CE0036DCB3 /* ExampleViewController4.m */; };
+		FA4718541CD052CE0036DCB3 /* ExampleViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = FA47184D1CD052CE0036DCB3 /* ExampleViewController5.m */; };
+		FA4718551CD052CE0036DCB3 /* ProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA47184F1CD052CE0036DCB3 /* ProgressView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +57,18 @@
 		FA4718321CD051CA0036DCB3 /* UiBenDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UiBenDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA4718361CD051CA0036DCB3 /* UiBenDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UiBenDemoUITests.m; sourceTree = "<group>"; };
 		FA4718381CD051CA0036DCB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4718441CD052CE0036DCB3 /* ExampleViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController1.h; sourceTree = "<group>"; };
+		FA4718451CD052CE0036DCB3 /* ExampleViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController1.m; sourceTree = "<group>"; };
+		FA4718461CD052CE0036DCB3 /* ExampleViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController2.h; sourceTree = "<group>"; };
+		FA4718471CD052CE0036DCB3 /* ExampleViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController2.m; sourceTree = "<group>"; };
+		FA4718481CD052CE0036DCB3 /* ExampleViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController3.h; sourceTree = "<group>"; };
+		FA4718491CD052CE0036DCB3 /* ExampleViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController3.m; sourceTree = "<group>"; };
+		FA47184A1CD052CE0036DCB3 /* ExampleViewController4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController4.h; sourceTree = "<group>"; };
+		FA47184B1CD052CE0036DCB3 /* ExampleViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController4.m; sourceTree = "<group>"; };
+		FA47184C1CD052CE0036DCB3 /* ExampleViewController5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController5.h; sourceTree = "<group>"; };
+		FA47184D1CD052CE0036DCB3 /* ExampleViewController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController5.m; sourceTree = "<group>"; };
+		FA47184E1CD052CE0036DCB3 /* ProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressView.h; sourceTree = "<group>"; };
+		FA47184F1CD052CE0036DCB3 /* ProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +123,18 @@
 				FA4718151CD051CA0036DCB3 /* AppDelegate.m */,
 				FA4718171CD051CA0036DCB3 /* ViewController.h */,
 				FA4718181CD051CA0036DCB3 /* ViewController.m */,
+				FA4718441CD052CE0036DCB3 /* ExampleViewController1.h */,
+				FA4718451CD052CE0036DCB3 /* ExampleViewController1.m */,
+				FA4718461CD052CE0036DCB3 /* ExampleViewController2.h */,
+				FA4718471CD052CE0036DCB3 /* ExampleViewController2.m */,
+				FA4718481CD052CE0036DCB3 /* ExampleViewController3.h */,
+				FA4718491CD052CE0036DCB3 /* ExampleViewController3.m */,
+				FA47184A1CD052CE0036DCB3 /* ExampleViewController4.h */,
+				FA47184B1CD052CE0036DCB3 /* ExampleViewController4.m */,
+				FA47184C1CD052CE0036DCB3 /* ExampleViewController5.h */,
+				FA47184D1CD052CE0036DCB3 /* ExampleViewController5.m */,
+				FA47184E1CD052CE0036DCB3 /* ProgressView.h */,
+				FA47184F1CD052CE0036DCB3 /* ProgressView.m */,
 				FA47181A1CD051CA0036DCB3 /* Main.storyboard */,
 				FA47181D1CD051CA0036DCB3 /* Assets.xcassets */,
 				FA47181F1CD051CA0036DCB3 /* LaunchScreen.storyboard */,
@@ -271,8 +301,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA4718191CD051CA0036DCB3 /* ViewController.m in Sources */,
+				FA4718521CD052CE0036DCB3 /* ExampleViewController3.m in Sources */,
+				FA4718551CD052CE0036DCB3 /* ProgressView.m in Sources */,
 				FA4718161CD051CA0036DCB3 /* AppDelegate.m in Sources */,
+				FA4718541CD052CE0036DCB3 /* ExampleViewController5.m in Sources */,
+				FA4718531CD052CE0036DCB3 /* ExampleViewController4.m in Sources */,
+				FA4718511CD052CE0036DCB3 /* ExampleViewController2.m in Sources */,
 				FA4718131CD051CA0036DCB3 /* main.m in Sources */,
+				FA4718501CD052CE0036DCB3 /* ExampleViewController1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +534,7 @@
 				FA47183D1CD051CA0036DCB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA47183E1CD051CA0036DCB3 /* Build configuration list for PBXNativeTarget "UiBenDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +543,7 @@
 				FA4718401CD051CA0036DCB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA4718411CD051CA0036DCB3 /* Build configuration list for PBXNativeTarget "UiBenDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +552,7 @@
 				FA4718431CD051CA0036DCB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -31,6 +31,7 @@
         [self.layer addSublayer:self.bottomShapeLayer];
         [self.layer addSublayer:self.topShapeLayer];
         
+        
     }
     return self;
 }
